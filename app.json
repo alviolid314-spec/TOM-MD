@@ -1,7 +1,7 @@
 {
   "name": "TOM-MD",
-  "description": "Javascript WhatsApp bot made by DR KAMRAN",
-  "logo": "https://files.catbox.moe/ly6553.jpg",
+  "description": "Javascript WhatsApp bot made by DR RAHI",
+  "logo": "https://files.catbox.moe/41gytq.jpg",
   "keywords": ["TOM-MD"],
   "success_url": ".",
 
@@ -124,7 +124,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/ly6553.jpg"
+      "value": "https://files.catbox.moe/41gytq.jpg"
     },
     
      "DESCRIPTION": {
