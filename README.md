@@ -1,7 +1,6 @@
 ![IMG-20260329-WA0385](https://github.com/user-attachments/assets/a4727a45-dddd-4be8-87c5-8f0bd08779cf)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&linesKAD-V8" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://upld.zone.id/uploads/d4ina6iq/img-20260114-wa0013-1.webp'/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=120&lines=TOM+MD+V8;WHATSAPP+MULTI+DEVICE+BOT;FAST+⚡+SMART+🤖+POWERFUL+💎" />
