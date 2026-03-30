@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="260"/>
+  <img src="" width="260"/>
 </p>
 
 <h2 align="center">⚡ The Most Powerful WhatsApp Multi-Device Bot ⚡</h2>
