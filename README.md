@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/TOM-SMD">
-    <img src="https://img.shields.io/badge/DEVELOPER-KAMRAN%20MD-ff00ff?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/DEVELOPER-TOM%20MD-ff00ff?style=for-the-badge&logo=github"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=TOM-MD&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/VERSION-8.0.0-purple?style=for-the-badge"/>
