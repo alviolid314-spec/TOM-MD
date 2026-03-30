@@ -1,9 +1,9 @@
 {
-  "name": "KAMRAN-MD",
+  "name": "TOM-MD",
   "description": "Javascript WhatsApp bot made by DR KAMRAN",
   "logo": "https://files.catbox.moe/ly6553.jpg",
-  "keywords": ["KAMRAN-MD"],
-  "success_url": "/",
+  "keywords": ["TOM-MD"],
+  "success_url": ".",
 
     "stack": "container",
   "env": {
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "TOM-MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KAMRAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY TOM-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DR KAMRAN"
+      "value": "TOM PRIME-X"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923195068309"
+      "value": "8801751741382"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "TOM-MD"
 
       }, 
 
@@ -130,7 +130,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ DR KAMRAN*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓆩⎯꯭᳝֟፝֟𝐑𝐀𝐇𝐈 𝐁𝐇𝐀𝐈 亗*"
     },
 
       "DELETE_LINKS": {
